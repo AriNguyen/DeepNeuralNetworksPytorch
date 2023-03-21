@@ -7,8 +7,8 @@
 - [1.2 Two Dimensionl Tensors](TensorsAndDatasets/1.2.TwoDimensionalTensors.ipynb)
 - [1.3 Differentiation in PyTorch](TensorsAndDatasets/1.3.DerivativesAndGraph.ipynb)
 - [1.4 Simple Dataset](TensorsAndDatasets/1.4.SimpleDataset.ipynb)
-- [1.4 Image Datasets and Transforms]()
-- [1.5 Prebuilt Datasets and Transforms]()
+- [1.4 Image Datasets and Transforms](TensorsAndDatasets/1.5.DatasetsAndTransforms.ipynb)
+- [1.5 Prebuilt Datasets and Transforms](TensorsAndDatasets/1.6.PreBuiltDatasetsAndTransforms.ipynb)
 
 2. Linear Regression
 
